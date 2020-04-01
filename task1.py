@@ -1,0 +1,7 @@
+x=input('enter a number: ')
+v=int(x)
+f=float(x)
+print(v)
+print(type(v))
+print(f)
+print(type(f))
